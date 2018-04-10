@@ -4,7 +4,6 @@
 2. 搜索图片爬虫 （百度图片）
 3. 根据url爬虫下载图片
 # 
-======================English version===========================
 #
 crawler related
 1. Street View Reptiles (Baidu Map, Tencent Map, Google Maps, High German Maps)
